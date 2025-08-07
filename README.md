@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @wiiboi69
 - i like to drink nuke
+- ⚙️ i like bottom gesr meme
 - I’m currently learning some random thing
 - ⚡ Fun fact: i am spining 
 
