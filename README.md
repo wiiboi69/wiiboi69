@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @wiiboi69
-- i like to drink nuke
-- I’m currently learning some random thing
-- ⚡ Fun fact: i am spining 
+I’m @wiiboi69 and i like to random stuff
 
 <!---
 wiiboi69/wiiboi69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
